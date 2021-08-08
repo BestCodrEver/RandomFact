@@ -1,0 +1,33 @@
+#Delay between facts (in ticks)
+fact-delay: 200
+
+#The world facts will be sent in
+world: world
+
+#Message sent
+#Colours & Tags
+#Fact = {fact}
+#RESET = {reset}
+#BOLD = {bold}
+#ITALIC = {italic}
+#OBFUSCATED = {obfuscated}
+#STRIKETHROUGH = {strike}
+#UNDERLINE = {under}
+#AQUA = {aqua}
+#BLACK = {black}
+#BLUE = {blue}
+#DARK AQUA = {darkaqua}
+#DARK BLUE = {darkblue}
+#DARK GREY = {darkgrey}
+#DARK GREEN = {darkgreen}
+#DARK PURPLE = {darkpurple}
+#DARK RED = {darkred}
+#GOLD = {gold}
+#GREY = {grey}
+#GREEN = {green}
+#LIGHT PURPLE = {lightpurple}
+#RED = {red}
+#WHITE = {white}
+#YELLOW = {yellow}
+
+fact-msg: "{bold}{aqua}Fun Fact!{reset} {fact}"

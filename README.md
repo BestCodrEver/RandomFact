@@ -1,3 +1,7 @@
+[![](https://poggit.pmmp.io/shield.state/RandomFact)](https://poggit.pmmp.io/p/RandomFact)
+[![](https://poggit.pmmp.io/shield.api/RandomFact)](https://poggit.pmmp.io/p/RandomFact)
+
+
 # RandomFact
 Announces random facts to your Pocketmine server! 
 

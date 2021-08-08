@@ -1,7 +1,7 @@
 # RandomFacts
 Announces random facts to your Pocketmine server!
 
-TODO before submission to Poggit:
+To-do:
 
 - [ ] Setup the basics
 - [ ] Config
